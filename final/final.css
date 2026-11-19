@@ -2,8 +2,8 @@
 
 p {
 font-size: 20px;
-font-family: Georgia, 'Times New Roman', Times, serif;
-
+font-family: 'Times New Roman', Times, serif;
+}
 .footer p { /* This is how you add styles for only the p text within the footer. */
 	font-family: 'Times New Roman', serif;
 	background-color: #cccccc;
@@ -17,7 +17,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 50px;
 	text-align: center;
 	font-family: 'Georgia', serif;
-	background-color: EFFFC8;
+	background-color: #EFFFC8;
 }
 h4 {
 	font-style: italic;
